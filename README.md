@@ -16,5 +16,17 @@ https://github.com/user-attachments/assets/8754e78b-3b80-4b37-897b-71f0a6e16aa3
 
 4. Choose two snapshots of code that demonstrate the algorithm(s) used to implement the additional features. Explain the code in the screenshots.
 
+<img width="405" alt="Screenshot 2024-12-14 at 5 15 32 PM" src="https://github.com/user-attachments/assets/24cf9deb-0c04-4e7e-806b-2d6245e1e887" />
+
+This code is for the color change. Here there is a list of colors. The function chooses one at random and assigns is to the player color. Then they use .stamp() to stamp the players current size and shape onto the backround. AFter that it reverts the trtl to its original color of green so the user playing the game won't get the stamped turtles confusing with the one they are trying to click.
+
+<img width="229" alt="Screenshot 2024-12-14 at 5 15 37 PM" src="https://github.com/user-attachments/assets/abb1b4a6-1ba4-4ac9-843f-962f757949fa" />
+
+This code changes the size of the trtl. It randomly changes the size of the trtl by randomly picking a value from a list(list is shown in the first screenshot) and assigns it to the player size.
+
+
+
+
+
 
 
